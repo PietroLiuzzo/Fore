@@ -163,6 +163,8 @@ If you intend to hack it yourself ...
 1. change to the rootfolder
 1. run `npm i` to install dependencies
 1. run `npm run start`
+1. cd into the demo dir 
+1. run `npm i` to install demo dependencies
 
 starts the testserver with 'doc/index.html' as entry page. This will send you to 'doc/demos.html' as an
 entry point. This lists out running examples to learn and copy from.
